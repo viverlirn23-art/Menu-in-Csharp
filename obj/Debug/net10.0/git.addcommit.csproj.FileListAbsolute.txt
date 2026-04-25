@@ -1,0 +1,14 @@
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\bin\Debug\net10.0\git.addcommit.exe
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\bin\Debug\net10.0\git.addcommit.deps.json
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\bin\Debug\net10.0\git.addcommit.runtimeconfig.json
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\bin\Debug\net10.0\git.addcommit.dll
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\bin\Debug\net10.0\git.addcommit.pdb
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\obj\Debug\net10.0\git.addcommit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\obj\Debug\net10.0\git.addcommit.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\obj\Debug\net10.0\git.addcommit.AssemblyInfo.cs
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\obj\Debug\net10.0\git.addcommit.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\obj\Debug\net10.0\git.addcommit.dll
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\obj\Debug\net10.0\refint\git.addcommit.dll
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\obj\Debug\net10.0\git.addcommit.pdb
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\obj\Debug\net10.0\git.addcommit.genruntimeconfig.cache
+C:\Users\ПК\source\repos\Dz\git.addcommit\git.addcommit\obj\Debug\net10.0\ref\git.addcommit.dll
